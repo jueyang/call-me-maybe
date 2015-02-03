@@ -1,6 +1,4 @@
-### How to communicate with Jue when you have a question?
-
-Congrats, you've made it to this URL.
+### Congrats! You've made it to this repository.
 
 Now, to post your question, click on the `Issues` on the right,  then click `New issue` to open one.
 
