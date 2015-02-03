@@ -2,7 +2,7 @@
 
 Now, to post your question, click on the `Issues` on the right,  then click `New issue` to open one.
 
-Feel free to AMA (Ask me anything.) Some sample questions to get you started:
+Feel free to AMA (Ask me anything. If you don't know what I'm talking about, check out [Nick's example](https://www.reddit.com/r/IAmA/comments/2oxk19/nick_offerman_chanticleer_ready_for_another_ama).) Some sample questions to get you started:
 
 - I have project X. I want add this feature. How can I do it?
 - I just interviewed 10 people. So excited to put it together! But I don't know what to use and I don't have much time before the deadline. What do I do now?
