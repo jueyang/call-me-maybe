@@ -4,7 +4,7 @@ Now, to post your question, click on the `Issues` on the right,  then click `New
 
 Feel free to AMA (Ask me anything. If you don't know what I'm talking about, check out [Nick's example](https://www.reddit.com/r/IAmA/comments/2oxk19/nick_offerman_chanticleer_ready_for_another_ama).) Some sample questions to get you started:
 
-- I have project X. I want add to this feature. How can I do it?
+- I have project X. I want to add this feature. How can I do it?
 - I just interviewed 10 people. So excited to put it together! But I don't know what to use and I don't have much time before the deadline. What do I do now?
 - Why am I using GitHub?
 - Do you like ice cubes?
