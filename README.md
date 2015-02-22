@@ -15,9 +15,9 @@ Now, to post your question, click on the `Issues` on the right,  then click `New
 
 ### Be specific when it comes to coding questions
 
-**Specificity is your friend** when you are trying to find out why a certain piece of code that doesn't work. But how would ask a question that would help you to solve the problem (a.k.a. debug)?
+**Specificity is your friend** when you are trying to find out why a certain piece of code doesn't work. 
 
-Here's [an excellent article](http://www.propublica.org/nerds/item/how-to-ask-programming-questions) on how to ask programming-related questions, by _Sisi Wei_ from Propublica (with whom some of you might have take the fundemental interactive or the data scraping class.) Pay particular attention to how you frame your question. It shows that you've worked through your problem, rather than dumping the workload to another person, thus losing a premium learning opportunity for yourself:
+Here's [an excellent article](http://www.propublica.org/nerds/item/how-to-ask-programming-questions) on how to ask programming-related questions, by _Sisi Wei_ from Propublica. Pay particular attention to how you frame your question. It shows that you've worked through your problem, rather than dumping the workload to another person, thus losing a premium learning opportunity for yourself:
 
 > When asking your question, be specific. This means your post should include:
 
