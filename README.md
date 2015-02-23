@@ -2,6 +2,8 @@
 
 Now, to post your question, click on the `Issues` on the right,  then click `New issue` to open one.
 
+:cactus::yellow_heart::monkey: emojis are optional.
+
 ### Some sample questions to get you started
 
 - I have project X. I want to add this feature. How can I do it?
