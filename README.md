@@ -2,7 +2,7 @@
 
 Now, to post your question, click on the `Issues` on the right,  then click `New issue` to open one.
 
-:cactus::yellow_heart::monkey: emojis are optional.
+:cactus::yellow_heart::monkey: [emojis](http://www.emoji-cheat-sheet.com/) are optional.
 
 ### Some sample questions to get you started
 
