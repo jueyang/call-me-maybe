@@ -27,10 +27,20 @@ Here's [an excellent article](http://www.propublica.org/nerds/item/how-to-ask-pr
 > - Any error messages you got
 > - What you’ve tried already, and what happened
 
----
+### Use markdown to format your text
 
-**Note:** If you already know markdown, format the text in your issues to your heart's content. Otherwise, you should learn it. Consult the `Markdown supported` document (you can find it on top of the text window,) which opens in a new tab, and learn how to say things like *I really want to emphasize this* or **I really want to bolden that**. If you structure your thoughts with markdown I'll get you a coffee or something. Seriously.
+If you already know markdown, format the text in your issues to your heart's content. Otherwise, **you should learn it.** Consult the [Markdown supported](https://guides.github.com/features/mastering-markdown/) document (which you can also find on top of the text window when you open a new issue.)
 
-If you have a truly personal matter, leave me an email in the issue, and I'll get back to you by inviting you to a [Slack](https://slack.com/) room where we can chat one-on-one.
+Learn to say things like *I really want to emphasize this*, **I really want to bolden that**, or lists:
+
+- hello
+- hi
+- aloha
+
+If you structure your thoughts with markdown (and/or including an image like the one above) I'll get you a coffee or something. Seriously.
+
+### Personal matter?
+
+If you have a truly personal matter, such as a discussion on the philosophy of life, leave me an email in the issue. I'll get back to you by inviting you to a [Slack](https://slack.com/) room where we can chat one-on-one.
 
 
