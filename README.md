@@ -39,7 +39,7 @@ Learn to say things like *I really want to emphasize this*, **I really want to b
 - hi
 - aloha
 
-If you structure your thoughts with markdown (and/or including an image like the one above) I'll get you a coffee or something. Seriously.
+If you structure your thoughts with markdown (and/or including an image like the one above) I'll play a [song](https://www.youtube.com/watch?v=ic87SfqQAAM) for you when you come by. Pick the theme song of your choice, seriously.
 
 ### Personal matter?
 
