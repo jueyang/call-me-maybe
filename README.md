@@ -29,6 +29,20 @@ Here's [an excellent article](http://www.propublica.org/nerds/item/how-to-ask-pr
 > - Any error messages you got
 > - What you’ve tried already, and what happened
 
+### When you have a deadline
+
+So you have a deadline and want your answer right here right now?
+
+Well, first, avoid last-minute question as much as possible. I would be more productive in helping you if you give me time to understand **where you are** and  **where your project actually is**. But if you absolutely have to this last-minute urgency, do the following:
+
+- explain your situation
+- inform me of your knowledge (What's the status of your project now? What do you need from me?)
+- let me know the time you have until the deadline
+
+We could still brainstorm something. Just _Help me help you._ Deal?
+
+![](http://cdn.hellogiggles.com/wp-content/uploads/2015/02/27/gif-of-house-of-cards-fourth-wall.gif)
+
 ### Use markdown to format your text
 
 If you already know markdown, format the text in your issues to your heart's content. Otherwise, **you should learn it.** Consult the [Markdown supported](https://guides.github.com/features/mastering-markdown/) document (which you can also find on top of the text window when you open a new issue.)
@@ -44,5 +58,3 @@ If you structure your thoughts with markdown (and/or including an image like the
 ### Personal matter?
 
 If you have a truly personal matter, such as a discussion on the philosophy of life, leave me an email in the issue. I'll get back to you by inviting you to a [Slack](https://slack.com/) room where we can chat one-on-one.
-
-
