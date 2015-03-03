@@ -39,9 +39,11 @@ Well, first, avoid last-minute question as much as possible. I would be more pro
 - the time you have until the deadline
 - what you think you will need, or if you'd like me to help you assess the situation
 
-We could still brainstorm something. Just, _Help me help you._ Deal?
+We could still brainstorm something. Just:
 
 ![](http://cdn.hellogiggles.com/wp-content/uploads/2015/02/27/gif-of-house-of-cards-fourth-wall.gif)
+
+_Help me help you._
 
 ### Use markdown to format your text
 
