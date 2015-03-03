@@ -7,7 +7,7 @@ Now, to post your question, click on the `Issues` on the right,  then click `New
 ### Some sample questions to get you started
 
 - I have project X. I want to add this feature. How can I do it?
-- I just interviewed 10 people. So excited to put it together! But I don't know what to use and I don't have much time before the deadline. What do I do now?
+- I just interviewed 10 people. So excited to put it together! But I don't know what to use and I don't have much time before the deadline*. What do I do now?
 - Why am I using GitHub?
 - Do you like ice cubes?
 
@@ -29,7 +29,7 @@ Here's [an excellent article](http://www.propublica.org/nerds/item/how-to-ask-pr
 > - Any error messages you got
 > - What you’ve tried already, and what happened
 
-### When you have a deadline
+### *When you have a deadline
 
 So you have a deadline and want your answer right here right now?
 
