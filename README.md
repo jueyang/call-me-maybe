@@ -33,13 +33,13 @@ Here's [an excellent article](http://www.propublica.org/nerds/item/how-to-ask-pr
 
 So you have a deadline and want your answer right here right now?
 
-Well, first, avoid last-minute question as much as possible. I would be more productive in helping you if you give me time to understand **where you are** and  **where your project actually is**. But if you absolutely have to this last-minute urgency, do the following:
+Well, first, avoid last-minute question as much as possible. I would be more productive in helping you if you give me time to understand **where you are** and  **where your project actually is**. But if you absolutely have to create a last-minute urgency, be specific about the following:
 
-- explain your situation
-- inform me of your knowledge (What's the status of your project now? What do you need from me?)
-- let me know the time you have until the deadline
+- how much you know and how much you have done
+- the time you have until the deadline
+- what you think you will need, or if you'd like me to help you assess the situation
 
-We could still brainstorm something. Just _Help me help you._ Deal?
+We could still brainstorm something. Just, _Help me help you._ Deal?
 
 ![](http://cdn.hellogiggles.com/wp-content/uploads/2015/02/27/gif-of-house-of-cards-fourth-wall.gif)
 
