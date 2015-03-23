@@ -10,8 +10,7 @@ Now, to post your question, click on the `Issues` on the right,  then click `New
 - I just interviewed 10 people. So excited to put it together! But I don't know what to use and I don't have much time before the deadline*. What do I do now?
 - Why am I using GitHub?
 - Do you like ice cubes?
-
-Or check out [questions others have asked](https://github.com/jueyang/call-me-maybe/issues?q=is%3Aissue+is%3Aclosed)
+- Also, check out [questions others have asked](https://github.com/jueyang/call-me-maybe/issues?q=is%3Aissue+is%3Aclosed)
 
 ![](http://media.giphy.com/media/Fq4tqAj2meD3W/giphy.gif)
 
